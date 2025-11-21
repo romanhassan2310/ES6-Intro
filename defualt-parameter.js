@@ -22,6 +22,11 @@ function fullName (first, last = ''){
 fullName('Roman');
 
 /**
- *  add ---> 0
- * multiply --> 1
+ *  some thumb rule of default value. may be useful
+ *  add, substract ---> 0
+ *  multiply --> 1
+ *  string --> ''
+ *  array = []
+ *  object = {}
+ *  
  */
